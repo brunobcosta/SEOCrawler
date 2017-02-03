@@ -1,0 +1,248 @@
+[
+	{
+		"url": "https://promonestle.local/assai/",
+		"statusCode": 200,
+		"title": "Home",
+		"author": "Nestlé - http://www.nestle.com.br",
+		"description": "",
+		"keywords": "",
+		"antiClickjack": "OK!"
+	},
+	{
+		"url": "https://promonestle.local/assai/Fale",
+		"statusCode": 200,
+		"title": "Fale Conosco",
+		"author": "Nestlé - http://www.nestle.com.br",
+		"description": "Fale com a gente, envie seus comentários, sugestões e dúvidas. Basta preencher alguns campos e escrever sua mensagem. Teremos o maior prazer em responder e ajudar no que for possível.",
+		"keywords": "nestle, nestlé, Promoção Nestlé, prêmios, sorteio, produtos Nestlé, cupom fiscal, embalagens, rótulos, concorrer a prêmios, fale conosco, fale com a gente, comentários, dúvidas, sugestões, dúvidas da promoção, ajuda, sorteados, vencedores da promoção, ganhadores da promoção, números da sorte, números do sorteio, meus números, como participar da promoção, cadastro nestlé, regulamento da promoção",
+		"antiClickjack": "OK!"
+	},
+	{
+		"url": "https://promonestle.local/assai/Politica",
+		"statusCode": 200,
+		"title": "Política de Privacidade",
+		"author": "Nestlé - http://www.nestle.com.br",
+		"description": "Consulte aqui nossa Política de Privacidade, e saiba como a Nestlé preserva a privacidade e a segurança dos seus dados pessoais.",
+		"keywords": "nestle, nestlé, Promoção Nestlé, prêmios, sorteio, produtos Nestlé, cupom fiscal, embalagens, rótulos, concorrer a prêmios,  política de privacidade, dados pessoais, informações pessoais, segurança de dados pessoais, privacidade, fale conosco, vencedores da promoção, ganhadores da promoção, números da sorte, números do sorteio, meus números, linha Mucilon, como participar da promoção, cadastro nestlé, regulamento da promoção",
+		"antiClickjack": "OK!"
+	},
+	{
+		"url": "https://promonestle.local/assai/Regulamento",
+		"statusCode": 200,
+		"title": "Regulamento",
+		"author": "Nestlé - http://www.nestle.com.br",
+		"description": "",
+		"keywords": "",
+		"antiClickjack": "OK!"
+	},
+	{
+		"url": "https://promonestle.local/assai/Faq",
+		"statusCode": 200,
+		"title": "Perguntas Frequentes",
+		"author": "Nestlé - http://www.nestle.com.br",
+		"description": "",
+		"keywords": "",
+		"antiClickjack": "OK!"
+	},
+	{
+		"url": "https://promonestle.local/assai/Ganhadores",
+		"statusCode": 200,
+		"title": "Ganhadores",
+		"author": "Nestlé - http://www.nestle.com.br",
+		"description": "",
+		"keywords": "",
+		"antiClickjack": "OK!"
+	},
+	{
+		"url": "https://promonestle.local/assai/Estabelecimentos",
+		"statusCode": 500,
+		"title": "The view 'Estabelecimentos' or its master was not found or no view engine supports the searched locations. The following locations were searched:~/Areas/Assai/Views/Home/Estabelecimentos.cshtml~/Areas/Assai/Views/Shared/Estabelecimentos.cshtml~/Views/Home/Estabelecimentos.cshtml~/Views/Shared/Estabelecimentos.cshtml"
+	},
+	{
+		"url": "https://promonestle.local/assai/Participar/DadoCompra",
+		"statusCode": 200,
+		"title": "Participe",
+		"author": "Nestlé - http://www.nestle.com.br",
+		"description": "Para participar da promoção é preciso ter cadastro em algum site Nestlé e fazer login. Caso ainda não tenha, cadastre-se!  Depois, cadastre seus produtos e o cupom fiscal da compra para concorrer! ",
+		"keywords": "nestle, nestlé, Promoção Nestlé, cupons, prêmios, sorteio, concurso, produtos Nestlé, cupom fiscal, embalagens, rótulos, como participar, concorrer a prêmios, cadastro nestlé, login nestlé, login, cadastro",
+		"antiClickjack": "OK!"
+	},
+	{
+		"url": "https://promonestle.local/assai/Participar/PinCode",
+		"statusCode": 200,
+		"title": "Participe",
+		"author": "Nestlé - http://www.nestle.com.br",
+		"description": "Para participar da promoção é preciso ter cadastro em algum site Nestlé e fazer login. Caso ainda não tenha, cadastre-se!  Depois, cadastre seus produtos e o cupom fiscal da compra para concorrer! ",
+		"keywords": "nestle, nestlé, Promoção Nestlé, cupons, prêmios, sorteio, concurso, produtos Nestlé, cupom fiscal, embalagens, rótulos, como participar, concorrer a prêmios, cadastro nestlé, login nestlé, login, cadastro",
+		"antiClickjack": "OK!"
+	},
+	{
+		"url": "https://promonestle.local/assai/Participar/Lote",
+		"statusCode": 200,
+		"title": "Participe",
+		"author": "Nestlé - http://www.nestle.com.br",
+		"description": "Para participar da promoção é preciso ter cadastro em algum site Nestlé e fazer login. Caso ainda não tenha, cadastre-se!  Depois, cadastre seus produtos e o cupom fiscal da compra para concorrer! ",
+		"keywords": "nestle, nestlé, Promoção Nestlé, cupons, prêmios, sorteio, concurso, produtos Nestlé, cupom fiscal, embalagens, rótulos, como participar, concorrer a prêmios, cadastro nestlé, login nestlé, login, cadastro",
+		"antiClickjack": "OK!"
+	},
+	{
+		"url": "https://promonestle.local/assai/Participar/MeusNumeros",
+		"statusCode": 200,
+		"title": "Participe",
+		"author": "Nestlé - http://www.nestle.com.br",
+		"description": "Para participar da promoção é preciso ter cadastro em algum site Nestlé e fazer login. Caso ainda não tenha, cadastre-se!  Depois, cadastre seus produtos e o cupom fiscal da compra para concorrer! ",
+		"keywords": "nestle, nestlé, Promoção Nestlé, cupons, prêmios, sorteio, concurso, produtos Nestlé, cupom fiscal, embalagens, rótulos, como participar, concorrer a prêmios, cadastro nestlé, login nestlé, login, cadastro",
+		"antiClickjack": "OK!"
+	},
+	{
+		"url": "https://promonestle.local/assai/Concurso/Enviar",
+		"statusCode": 200,
+		"title": "Participe",
+		"author": "Nestlé - http://www.nestle.com.br",
+		"description": "Para participar da promoção é preciso ter cadastro em algum site Nestlé e fazer login. Caso ainda não tenha, cadastre-se!  Depois, cadastre seus produtos e o cupom fiscal da compra para concorrer! ",
+		"keywords": "nestle, nestlé, Promoção Nestlé, cupons, prêmios, sorteio, concurso, produtos Nestlé, cupom fiscal, embalagens, rótulos, como participar, concorrer a prêmios, cadastro nestlé, login nestlé, login, cadastro",
+		"antiClickjack": "OK!"
+	},
+	{
+		"url": "https://promonestle.local/assai/Concurso/Participacoes",
+		"statusCode": 500,
+		"title": "Referência de objeto não definida para uma instância de um objeto."
+	},
+	{
+		"url": "https://promonestle.local/assai/Concurso/MinhasParticipacoes",
+		"statusCode": 200,
+		"title": "Participe",
+		"author": "Nestlé - http://www.nestle.com.br",
+		"description": "Para participar da promoção é preciso ter cadastro em algum site Nestlé e fazer login. Caso ainda não tenha, cadastre-se!  Depois, cadastre seus produtos e o cupom fiscal da compra para concorrer! ",
+		"keywords": "nestle, nestlé, Promoção Nestlé, cupons, prêmios, sorteio, concurso, produtos Nestlé, cupom fiscal, embalagens, rótulos, como participar, concorrer a prêmios, cadastro nestlé, login nestlé, login, cadastro",
+		"antiClickjack": "OK!"
+	},
+	{
+		"url": "https://promonestle.local/assai/Visitante/Cadastro",
+		"statusCode": 200,
+		"title": "Cadastre-se",
+		"author": "Nestlé - http://www.nestle.com.br",
+		"description": "Preencha os campos, leia o regulamento e cadastre-se para participar da Promoção. Você terá também acesso a conteúdos exclusivos da Nestlé. Não perca tempo!",
+		"keywords": "nestle, nestlé, Promoção Nestlé, cupons, prêmios, sorteio, concurso, produtos Nestlé, cupom fiscal, embalagens, rótulos, concorrer a prêmios, cadastro, cadastro nestlé, login nestlé, cadastro da promoção, cadastrar, registro, regulamento, política de privacidade, dados cadastrais, endereço, e-mail, dados pessoais, login",
+		"antiClickjack": "OK!"
+	},
+	{
+		"url": "https://promonestle.local/assai/Visitante/EsqueciMeuEmail",
+		"statusCode": 200,
+		"title": "Esqueci meu e-mail",
+		"author": "Nestlé - http://www.nestle.com.br",
+		"description": "",
+		"keywords": "",
+		"antiClickjack": "OK!"
+	},
+	{
+		"url": "https://promonestle.local/assai/Visitante/EsqueciMinhaSenha",
+		"statusCode": 200,
+		"title": "Esqueci minha senha",
+		"author": "Nestlé - http://www.nestle.com.br",
+		"description": "",
+		"keywords": "",
+		"antiClickjack": "OK!"
+	},
+	{
+		"url": "https://promonestle.local/assai/Aviso/CadastroIncompleto",
+		"statusCode": 200,
+		"title": "Participe",
+		"author": "Nestlé - http://www.nestle.com.br",
+		"description": "Para participar da promoção é preciso ter cadastro em algum site Nestlé e fazer login. Caso ainda não tenha, cadastre-se!  Depois, cadastre seus produtos e o cupom fiscal da compra para concorrer! ",
+		"keywords": "nestle, nestlé, Promoção Nestlé, cupons, prêmios, sorteio, concurso, produtos Nestlé, cupom fiscal, embalagens, rótulos, como participar, concorrer a prêmios, cadastro nestlé, login nestlé, login, cadastro",
+		"antiClickjack": "OK!"
+	},
+	{
+		"url": "https://promonestle.local/assai/Aviso/CadastroInvalidoPorEstadoNaoParticipante",
+		"statusCode": 200,
+		"title": "Participe",
+		"author": "Nestlé - http://www.nestle.com.br",
+		"description": "Para participar da promoção é preciso ter cadastro em algum site Nestlé e fazer login. Caso ainda não tenha, cadastre-se!  Depois, cadastre seus produtos e o cupom fiscal da compra para concorrer! ",
+		"keywords": "nestle, nestlé, Promoção Nestlé, cupons, prêmios, sorteio, concurso, produtos Nestlé, cupom fiscal, embalagens, rótulos, como participar, concorrer a prêmios, cadastro nestlé, login nestlé, login, cadastro",
+		"antiClickjack": "OK!"
+	},
+	{
+		"url": "https://promonestle.local/assai/Aviso/CadastroInvalidoPorIdadeMinima",
+		"statusCode": 200,
+		"title": "Participe",
+		"author": "Nestlé - http://www.nestle.com.br",
+		"description": "Para participar da promoção é preciso ter cadastro em algum site Nestlé e fazer login. Caso ainda não tenha, cadastre-se!  Depois, cadastre seus produtos e o cupom fiscal da compra para concorrer! ",
+		"keywords": "nestle, nestlé, Promoção Nestlé, cupons, prêmios, sorteio, concurso, produtos Nestlé, cupom fiscal, embalagens, rótulos, como participar, concorrer a prêmios, cadastro nestlé, login nestlé, login, cadastro",
+		"antiClickjack": "OK!"
+	},
+	{
+		"url": "https://promonestle.local/assai/Aviso/PromocaoFinalizada",
+		"statusCode": 200,
+		"title": "Aviso",
+		"author": "Nestlé - http://www.nestle.com.br",
+		"antiClickjack": "OK!"
+	},
+	{
+		"url": "https://promonestle.local/assai/Aviso/PromocaoFinalizadaPorFaltaDeSorteio",
+		"statusCode": 200,
+		"title": "Aviso",
+		"author": "Nestlé - http://www.nestle.com.br",
+		"antiClickjack": "OK!"
+	},
+	{
+		"url": "https://promonestle.local/assai/Aviso/PromocaoNaoIniciada",
+		"statusCode": 200,
+		"title": "Aviso",
+		"author": "Nestlé - http://www.nestle.com.br",
+		"antiClickjack": "OK!"
+	},
+	{
+		"url": "https://promonestle.local/assai/Aviso/PromocaoSemNumeroSorteDisponivel",
+		"statusCode": 200,
+		"title": "Aviso",
+		"author": "Nestlé - http://www.nestle.com.br",
+		"antiClickjack": "OK!"
+	},
+	{
+		"url": "https://promonestle.local/assai/Aviso/ConcursoNaoPodeParticipar",
+		"statusCode": 200,
+		"title": "Participe",
+		"author": "Nestlé - http://www.nestle.com.br",
+		"description": "Para participar da promoção é preciso ter cadastro em algum site Nestlé e fazer login. Caso ainda não tenha, cadastre-se!  Depois, cadastre seus produtos e o cupom fiscal da compra para concorrer! ",
+		"keywords": "nestle, nestlé, Promoção Nestlé, cupons, prêmios, sorteio, concurso, produtos Nestlé, cupom fiscal, embalagens, rótulos, como participar, concorrer a prêmios, cadastro nestlé, login nestlé, login, cadastro",
+		"antiClickjack": "OK!"
+	},
+	{
+		"url": "https://promonestle.local/assai/Visitante/Login",
+		"statusCode": 200,
+		"title": "Participe",
+		"author": "Nestlé - http://www.nestle.com.br",
+		"description": "Para participar da promoção é preciso ter cadastro em algum site Nestlé e fazer login. Caso ainda não tenha, cadastre-se!  Depois, cadastre seus produtos e o cupom fiscal da compra para concorrer! ",
+		"keywords": "nestle, nestlé, Promoção Nestlé, cupons, prêmios, sorteio, concurso, produtos Nestlé, cupom fiscal, embalagens, rótulos, como participar, concorrer a prêmios, cadastro nestlé, login nestlé, login, cadastro",
+		"antiClickjack": "OK!"
+	},
+	{
+		"url": "https://promonestle.local/Cadastro/EsqueciMeuEmail.aspx",
+		"statusCode": 200,
+		"title": " Nestlé - Promoção ",
+		"author": "F5 - Web Design e Tecnologia Atualizada - http://www.ef5.com.br",
+		"antiClickjack": "OK!"
+	},
+	{
+		"url": "https://promonestle.local/Cadastro/EsqueciMinhaSenha.aspx",
+		"statusCode": 200,
+		"title": " Nestlé - Promoção ",
+		"author": "F5 - Web Design e Tecnologia Atualizada - http://www.ef5.com.br",
+		"antiClickjack": "OK!"
+	},
+	{
+		"url": "https://promonestle.local/Cadastro/Login.aspx?ForgotEmail=/assai/Visitante/EsqueciMeuEmail/&ForgotPassword=/assai/Visitante/EsqueciMinhaSenha",
+		"statusCode": 200,
+		"title": " Nestlé - Promoção ",
+		"author": "F5 - Web Design e Tecnologia Atualizada - http://www.ef5.com.br",
+		"antiClickjack": "OK!"
+	},
+	{
+		"url": "https://promonestle.local/Cadastro/Cadastro.aspx?ForgotPasswordRedirectURL=/assai/Visitante/EsqueciMinhaSenha/&ForgotEmailRedirectURL=/assai/Visitante/EsqueciMeuEmail/&SuccessRedirectURL=/assai/Visitante/CadastroResultado/&ChangeRedirectURL=/assai/Visitante/CadastroResultado",
+		"statusCode": 200,
+		"title": " Nestlé - Promoção ",
+		"author": "F5 - Web Design e Tecnologia Atualizada - http://www.ef5.com.br",
+		"antiClickjack": "OK!"
+	}
+]
